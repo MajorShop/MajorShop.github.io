@@ -1,1 +1,1 @@
-# majorshop.github.io
+http://majorshop.github.io
