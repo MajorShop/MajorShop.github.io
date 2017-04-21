@@ -1,2 +1,2 @@
-http://majorshop.github.io
-#Personal use
+# http://majorshop.github.io
+Personal Host
